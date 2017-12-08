@@ -1,0 +1,326 @@
+{
+  "Deals" : {
+    "Deal1" : {
+      "Cost" : 350,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 33.68906,
+        "Lon" : -78.886696
+      },
+      "Place" : "Myrtle Beach"
+    },
+    "Deal2" : {
+      "Cost" : 400,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 32.776566,
+        "Lon" : -79.930923
+      },
+      "Place" : "Charleston Beach"
+    },
+    "Deal3" : {
+      "Cost" : 490,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 35.611763,
+        "Lon" : -83.489548
+      },
+      "Place" : "Great Smoky Mountains National Park"
+    },
+    "Deal4" : {
+      "Cost" : 540,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 35.714321,
+        "Lon" : -79.930923
+      },
+      "Place" : "Gatlinburg"
+    },
+    "Deal5" : {
+      "Cost" : 300,
+      "Duration" : "1 Day Pass",
+      "Location" : {
+        "Lat" : 35.1028,
+        "Lon" : -80.9418
+      },
+      "Place" : "Carowinds Theme Park"
+    },
+    "Deal6" : {
+      "Cost" : 100,
+      "Duration" : "1 Day Pass",
+      "Location" : {
+        "Lat" : 35.2291,
+        "Lon" : -80.8047
+      },
+      "Place" : "Discovery Place"
+    },
+    "Deal7" : {
+      "Cost" : 300,
+      "Duration" : "2 Days 1 night",
+      "Location" : {
+        "Lat" : 38.9072,
+        "Lon" : -77.0369
+      },
+      "Place" : "Washington D.C."
+    },
+    "Deal8" : {
+      "Cost" : 510,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 29.2108,
+        "Lon" : -81.0228
+      },
+      "Place" : "Daytona Beach"
+    },
+    "Deal9" : {
+      "Cost" : 250,
+      "Duration" : "3 Days Pass",
+      "Location" : {
+        "Lat" : 28.3852,
+        "Lon" : -81.5639
+      },
+      "Place" : "Walt Disney World"
+    },
+    "Deal10" : {
+      "Cost" : 300,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 25.7617,
+        "Lon" : -80.1918
+      },
+      "Place" : "Miami"
+    },
+    "Deal11" : {
+      "Cost" : 2000,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 43.0962,
+        "Lon" : -79.0377
+      },
+      "Place" : "Niagara Falls Tour"
+    },
+    "Deal12" : {
+      "Cost" : 500,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 41.8781,
+        "Lon" : -87.6298
+      },
+      "Place" : "Chicago"
+    },
+    "Deal13" : {
+      "Cost" : 740,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 36.1699,
+        "Lon" : -115.1398
+      },
+      "Place" : "Las Vegas"
+    },
+    "Deal14" : {
+      "Cost" : 760,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 34.0522,
+        "Lon" : -118.2437
+      },
+      "Place" : "Los Angeles"
+    },
+    "Deal15" : {
+      "Cost" : 240,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 44.3386,
+        "Lon" : -68.2733
+      },
+      "Place" : "Acadia National Park"
+    },
+    "Deal16" : {
+      "Cost" : 340,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 37.2707,
+        "Lon" : -76.7075
+      },
+      "Place" : "Williamsburg"
+    },
+    "Deal18" : {
+      "Cost" : 270,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 38.8339,
+        "Lon" : -104.8214
+      },
+      "Place" : "Colorado Springs"
+    },
+    "Deal19" : {
+      "Cost" : 195,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 38.3365,
+        "Lon" : -75.0849
+      },
+      "Place" : "Ocean City"
+    },
+    "Deal20" : {
+      "Cost" : 499,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 33.8121,
+        "Lon" : -117.9190
+      },
+      "Place" : "Anaheim-Disneyland"
+    },
+    "Deal21" : {
+      "Cost" : 320,
+      "Duration" : "3 Days 2 nights",
+      "Location" : {
+        "Lat" : 32.7157,
+        "Lon" : -117.1611
+      },
+      "Place" : "San Diego"
+    }
+  },
+  "Places":{
+	  "Place1":{
+		  "City":"New York",
+		  "Location":{
+			  "Lat" : 40.7128,
+			  "Lon" : -74.0059
+		  }
+	  },
+	  "Place2":{
+		  "City":"Orlando",
+		  "Location":{
+			  "Lat" : 28.5383,
+			  "Lon" : -81.3792
+		  }
+	  },
+	  "Place3":{
+		  "City":"Asheville",
+		  "Location":{
+			  "Lat" : 35.5951,
+			  "Lon" : -82.5515
+		  }
+	  },
+	  "Place4":{
+		  "City":"Chicago",
+		  "Location":{
+			  "Lat" : 41.8781,
+			  "Lon" : -87.6298
+		  }
+	  },
+	  "Place5":{
+		  "City":"Washington DC",
+		  "Location":{
+			  "Lat" : 38.889931,
+			  "Lon" : -77.009003
+		  }
+	  },
+	  "Place6":{
+		  "City":"Seattle",
+		  "Location":{
+			  "Lat" : 47.6062,
+			  "Lon" : -122.3321
+		  }
+	  },
+	  "Place7":{
+		  "City":"Boston",
+		  "Location":{
+			  "Lat" : 42.3601,
+			  "Lon" : -71.0589
+		  }
+	  },
+	  "Place8":{
+		  "City":"Miami",
+		  "Location":{
+			  "Lat" : 25.7617,
+			  "Lon" : -80.1918
+		  }
+	  },
+	  "Place9":{
+		  "City":"Los Angeles",
+		  "Location":{
+			  "Lat" : 34.0522,
+			  "Lon" : -118.2437
+		  }
+	  },
+	  "Place10":{
+		  "City":"San Francisco",
+		  "Location":{
+			  "Lat" : 37.7749,
+			  "Lon" : -122.4194
+		  }
+	  },
+	  "Place11":{
+		  "City":"San Diego",
+		  "Location":{
+			  "Lat" : 32.7157,
+			  "Lon" : -117.1611
+		  }
+	  },
+	  "Place12":{
+		  "City":"Las Vegas",
+		  "Location":{
+			  "Lat" : 36.1699,
+			  "Lon" : -115.1398
+		  }
+	  },
+	  "Place13":{
+		  "City":"Hollywood",
+		  "Location":{
+			  "Lat" : 34.0928,
+			  "Lon" : -118.3287
+		  }
+	  },
+	  "Place14":{
+		  "City":"Phoenix",
+		  "Location":{
+			  "Lat" : 33.4484,
+			  "Lon" : -112.0740
+		  }
+	  },
+	  "Place15":{
+		  "City":"Jacksonville",
+		  "Location":{
+			  "Lat" : 30.3322,
+			  "Lon" : -81.6557
+		  }
+	  },
+	  "Place16":{
+		  "City":"Kansas",
+		  "Location":{
+			  "Lat" : 39.0119,
+			  "Lon" : -98.4842
+		  }
+	  },
+	  "Place17":{
+		  "City":"Detroit",
+		  "Location":{
+			  "Lat" : 42.3314,
+			  "Lon" : -83.0458
+		  }
+	  },
+	  "Place18":{
+		  "City":"Houston",
+		  "Location":{
+			  "Lat" : 29.7604,
+			  "Lon" : -95.3698
+		  }
+	  },
+	  "Place19":{
+		  "City":"Dallas",
+		  "Location":{
+			  "Lat" : 32.7767,
+			  "Lon" : -96.7970
+		  }
+	  },
+	  "Place20":{
+		  "City":"Tampa",
+		  "Location":{
+			  "Lat" : 27.9506,
+			  "Lon" : -82.4572
+		  }
+	  }
+  }
+}
